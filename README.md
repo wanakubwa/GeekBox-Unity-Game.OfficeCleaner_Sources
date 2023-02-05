@@ -24,3 +24,4 @@ Przy tworzeniu gry zostały wykorzystane następujące technologie:
 - Easy Mobile Pro
 - Amplify
 
+[//]: # (Dummy comment to order repositories.)
